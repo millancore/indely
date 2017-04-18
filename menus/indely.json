@@ -1,0 +1,25 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Start Classroom",
+        "command": "indely:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Indely",
+      "submenu": [
+        {
+          "label": "Start Classroom",
+          "command": "indely:toggle"
+        },
+        {
+          "label": "Stop Classroom",
+          "command": "indely:close"
+        }
+      ]
+    }
+  ]
+}
