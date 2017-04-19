@@ -18,6 +18,18 @@
         {
           "label": "Stop Classroom",
           "command": "indely:close"
+        },
+        {
+          "label": "Copy Url Classroom",
+          "command": "indely:copy"
+        },
+        {
+          "label": "Report Issues",
+          "command": "indely:issues"
+        },
+        {
+          "label": "About Indely",
+          "command": "indely:about"
         }
       ]
     }
