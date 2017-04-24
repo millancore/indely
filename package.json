@@ -2,7 +2,7 @@
   "name": "indely",
   "main": "./lib/indely",
   "version": "0.1.2",
-  "description": "A short description of your package",
+  "description": "Provide minimalist way for Streaming code, video and text messages",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "indely:toggle"
