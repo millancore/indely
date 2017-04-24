@@ -1,7 +1,7 @@
 {
   "name": "indely",
   "main": "./lib/indely",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Provide minimalist way for Streaming code, video and text messages",
   "keywords": [],
   "activationCommands": {
